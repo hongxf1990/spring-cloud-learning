@@ -12,7 +12,9 @@
         <module>compute-service2</module>
         <module>ribbon</module>
         <module>feign</module>
-    </modules>
+		<module>config-server</module>
+		<module>config-client</module>
+	</modules>
     <packaging>pom</packaging>
 
 	<name>spring-cloud-learning</name>
