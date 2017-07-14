@@ -10,12 +10,13 @@
         <module>eureka</module>
         <module>compute-service</module>
         <module>compute-service2</module>
-        <module>ribbon</module>
-        <module>feign</module>
+		<module>compute-service3</module>
+		<module>ribbon</module>
+		<module>feign</module>
 		<module>config-server</module>
 		<module>config-client</module>
-        <module>compute-service3</module>
 		<module>zuul</module>
+		<module>rabbitMQ</module>
 	</modules>
     <packaging>pom</packaging>
 
