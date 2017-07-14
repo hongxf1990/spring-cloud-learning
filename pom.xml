@@ -17,6 +17,7 @@
 		<module>config-client</module>
 		<module>zuul</module>
 		<module>rabbitMQ</module>
+		<module>config-client-bus</module>
 	</modules>
     <packaging>pom</packaging>
 
